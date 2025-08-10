@@ -1,3 +1,5 @@
+Exercice réalisé à partir du livre "FullstackD3 and Data Vizualisation" d'Amélia Wattenberger : https://www.newline.co/fullstack-d3
+
 Synthèse des sources consultées
 -Système éducatif au Québec - Wikipédia
 -Système de d'éducation | Gouvernement du Québec
