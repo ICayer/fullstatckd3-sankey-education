@@ -1,0 +1,130 @@
+body {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2em 2em;
+    font-family: "Teko", sans-serif;
+    font-size: 16px;
+    color:#c9dbe6;
+    background: #053959;
+    
+}
+
+.wrapper {
+    padding-bottom: 5em;
+}
+
+svg {
+    overflow: visible;
+    fill: #34495e;
+}
+
+svg text {
+    user-select: none;
+}
+
+.title {
+    font-family: "Teko", sans-serif;
+    font-size: 24px;
+    position: relative;
+    margin-top: 1.3em;
+    margin-bottom: 0;
+    line-height: 1.2em;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    letter-spacing: -0.011em;
+    align-items: center;
+}
+
+.description {
+    max-width: 40em;
+    margin-bottom: 2.9em;
+    font-size: 1.2em;
+    text-align: center;
+    line-height: 1.4em;
+    opacity: 0.6;
+}
+
+.source {
+    position: absolute;
+    bottom: 1em;
+    left: 2em;
+    opacity: 0.5;
+    font-size: 0.8em;
+    font-style: italic;
+}
+
+.source a {
+    color: inherit;
+}
+
+.category-path {
+    fill: none;
+    stroke:#c9dbe6;
+}
+
+.start-label {
+    text-anchor: end;
+    dominant-baseline: middle;
+    font-family: "Teko", sans-serif;
+    font-size: 1.2em;
+    fill:#c9dbe6;
+}
+
+.start-title{
+    text-anchor: end;
+    font-size: 0.8em;
+    opacity: 0.6;
+    fill:#c9dbe6;
+}
+
+.label {
+    dominant-baseline: middle;
+    font-family: "Teko", sans-serif;
+    font-size: 1.2em;
+    fill:#c9dbe6;
+}
+
+.ending-marker {
+    opacity:0.6;
+    fill:#c9dbe6;
+}
+
+.marker{
+    mix-blend-mode: multiply;
+}
+
+.ending-bar {
+    transition: all 0.3s ease-out;
+}
+
+.ending-value {
+    font-size : 0.7em;
+    text-anchor: end;
+    font-weight: 600;
+    font-feature-settings: 'tnum' 1;
+}
+
+.legend {
+    font-size: 0.8em;
+    opacity: 0.6;
+    dominant-baseline: middle;
+}
+
+.legend-text-left {
+    text-anchor: end;
+    fill: #c9dbe6;
+}
+
+.legend-text-right {
+    text-anchor: start;
+    fill: #c9dbe6;
+}
+
+.legend-line {
+    stroke: #c9dbe6;
+    stroke-width: 1px;
+}

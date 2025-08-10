@@ -1,0 +1,68 @@
+[
+  {
+    "genre": "femme",
+    "agegroup": "25 à 64 ans",
+    "revenu": "faible",
+    "primaire": 8,
+    "secondaire": 15,
+    "collégial": 25,
+    "certificat": 6,
+    "professionnel": 11,
+    "universitaire": 35
+  },
+  {
+    "genre": "homme",
+    "agegroup": "25 à 64 ans",
+    "revenu": "faible",
+    "primaire": 10,
+    "secondaire": 19,
+    "collégial": 22,
+    "certificat": 6,
+    "professionnel": 12,
+    "universitaire": 31
+  },
+  {
+    "genre": "femme",
+    "agegroup": "25 à 64 ans",
+    "revenu": "moyen",
+    "primaire": 4,
+    "secondaire": 11,
+    "collégial": 26,
+    "certificat": 8,
+    "professionnel": 12,
+    "universitaire": 39
+  },
+  {
+    "genre": "homme",
+    "agegroup": "25 à 64 ans",
+    "revenu": "moyen",
+    "primaire": 5,
+    "secondaire": 15,
+    "collégial": 25,
+    "certificat": 7,
+    "professionnel": 13,
+    "universitaire": 37
+  },
+  {
+    "genre": "femme",
+    "agegroup": "25 à 64 ans",
+    "revenu": "élevé",
+    "primaire": 1,
+    "secondaire": 5,
+    "collégial": 13,
+    "certificat": 8,
+    "professionnel": 6,
+    "universitaire": 67
+  },
+  {
+    "genre": "homme",
+    "agegroup": "25 à 64 ans",
+    "revenu": "élevé",
+    "primaire": 2,
+    "secondaire": 7,
+    "collégial": 11,
+    "certificat": 8,
+    "professionnel": 7,
+    "universitaire": 65
+  }
+]
