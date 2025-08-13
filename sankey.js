@@ -289,7 +289,7 @@ async function drawChart() {
 
   function updateMarkers(elapsed) {
     const xProgressAccessor = (d) => (elapsed - d.startTime) / 5000;
-    if (personne.length < 1000) {
+    if (personne.length < 5000) {
   personne.push(generatePersonne(elapsed));
 } else {
     timer.stop(); // <-- Stoppe le timer à 1000 personnes
